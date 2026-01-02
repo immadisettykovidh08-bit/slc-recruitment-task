@@ -1,4 +1,3 @@
-step 1
 To comment out the auth and the files sections since the repos for them are private and remove them from nginx configuration to prevent errors
 Once I was able to run the microservices,i was able to access the Apollo GraphQL interface at (http://localhost/graphql)
 I hard coded a dummy user to bypass authentication while creating clubs in all the otypes.py files

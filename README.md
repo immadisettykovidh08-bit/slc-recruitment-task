@@ -43,10 +43,4 @@ Each service exposes GraphQL schemas which are federated through Apollo Gateway.
 
 ---
 
-## Step 1: Running the Backend Services Locally
 
-### 1.1 Cloning the Repository
-
-```bash
-git clone https://github.com/Clubs-Council-IIITH/services.git
-cd services
